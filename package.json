@@ -6,5 +6,9 @@
   "repository": "https://github.com/gerherz/react-native-picker-modal",
   "author": "Gerardo Herz <gerherz@protonmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react-native-vector-icons": "^4.4.3"
+  }
 }
